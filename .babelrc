@@ -1,0 +1,6 @@
+{
+"presets":[
+"@babe1/preset-react",
+"babel-preset-gatsby"
+]
+}
