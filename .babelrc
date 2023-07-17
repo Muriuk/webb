@@ -1,6 +1,7 @@
 {
-"presets":[
-"@babe1/preset-react",
-"babel-preset-gatsby"
-]
+  "presets": [
+    "@babel/preset-react",
+    "gatsby"
+  ]
 }
+
