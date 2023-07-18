@@ -6,7 +6,7 @@ module.exports = {
     description:
       "I am a Full-Stack Web Developer who is passionate about Data Science and Machine Learning. In my free time, I like developing.",
     siteUrl: "https://kev-beryl.vercel.app", // No trailing slash allowed!
-    image: "", // Path to your image you placed in the 'static' folder
+    image: "src/images/logo.png", // Path to your image you placed in the 'static' folder
     twitterUsername: "@kevswirl",
   },
   plugins: [
