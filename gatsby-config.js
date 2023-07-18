@@ -5,9 +5,9 @@ module.exports = {
     title: "Portfolio | Kelvin Muriuki",
     description:
       "I am a Full-Stack Web Developer who is passionate about Data Science and Machine Learning. In my free time, I like developing.",
-    siteUrl: "https://parthdesai.vercel.app", // No trailing slash allowed!
-    image: "/og.png", // Path to your image you placed in the 'static' folder
-    twitterUsername: "@lone_Musk",
+    siteUrl: "https://kev-beryl.vercel.app", // No trailing slash allowed!
+    image: "", // Path to your image you placed in the 'static' folder
+    twitterUsername: "@kevswirl",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,13 +20,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "KelvinMuriuki",
-        short_name: "KelvinMuriuki",
+        name: "Kelvin Muriuki",
+        short_name: "Kelvin Muriuki",
         start_url: "/",
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: "minimal-ui",
-        icon: "src/images/logo.png",
+        icon: "",
       },
     },
     `gatsby-plugin-offline`,
