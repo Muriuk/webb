@@ -135,8 +135,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I am currently taking my bachelors at{' '}
-              <a href="https://egertonuniversity.ac.ke/" target="_blank" rel="noreferrer">
+              I am currently taking BSc Statistics at{' '}
+              <a href="https://www.egerton.ac.ke/" target="_blank" rel="noreferrer">
                 Egerton University
               </a>{' '}
               from 2020-2024. I was introduced to Data Science and Programming in my 1<sup>st</sup> semester and have been
@@ -148,21 +148,13 @@ const About = () => {
             <p>
               I am always looking to learn new things. I am currently working on a few projects
               related to <b>Software Development</b> and <b>Machine Learning</b>. At the same
-              time I am actively on the lookout for remote internships which I can pursue in field
+              time I am actively on the lookout for remote jobs & internships which I can pursue in field
               of Data Science and Web Development.
             </p>
 
             <p>
               I am a strong advocate for open source and I am always interested in working on new
-              projects with new people. Do check out my{' '}
-              <a
-                href="https://github.com/Muriuk?tab=repositories"
-                target="_blank"
-                rel="noreferrer"
-              >
-                repositories
-              </a>{' '}
-              and feel free to reach out on{' '}
+              projects with new people. Feel free to reach out on{' '}
               <a
                 href="https://api.whatsapp.com/send?phone=254768258491&text=Hi"
                 target="_blank"
