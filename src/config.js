@@ -35,7 +35,7 @@ module.exports = {
     },
     {
       name: 'Blog',
-      url: '/#contact',
+      url: 'https://nextjs-muriuk.vercel.app/',
     },
   ],
 
