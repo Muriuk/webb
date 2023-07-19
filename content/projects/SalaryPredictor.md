@@ -15,4 +15,4 @@ android: ''
 
 Kev tube App made with React just to practice the React framework
 
-A [Kev Tube](https://kevtube-two.vercel.app) demo [written in pure Python](https://github.com/Muriuk/kevtube/) to improve streaming experience without ads.
+A Kev Tube fetches youtube videos using the API to improve streaming experience without ads.
