@@ -10,4 +10,5 @@ url: ''
 - Developed a Score Managing system for a client.
 - Implemented GUI user functions and components in Tkinter and integrated the front - end with mySQL database.
 - Features Included : Accept participant registrations, automated scheduling of matches based on team availability, live scores and results available for public viewing.
+- I worked within the time frame i was given by clients.
 - **Technology: Python, mySQL, Tkinter**
