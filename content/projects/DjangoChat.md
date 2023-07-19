@@ -1,6 +1,6 @@
 ---
 date: '2022-03-12'
-title: 'Next.js App'
+title: 'My Blog Website'
 github: 'https://github.com/Muriuk/nextjs'
 external: 'https://nextjs-muriuk.vercel.app'
 tech:
@@ -12,4 +12,4 @@ ios: ''
 android: ''
 ---
 
-A demo web made of next.js framework.
+Here i post tech related content, i created it using next.js framework.
