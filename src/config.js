@@ -16,7 +16,7 @@ module.exports = {
     },
      {
       name: 'Whatsapp',
-      url: 'https://github.com/Muriuk',
+      url: 'https://api.whatsapp.com/send?phone=254768258491&text=Hi',
     },
     
   ],
