@@ -8,6 +8,6 @@ url: ''
 ---
 
 - Developed a cross - platform mobile app using React-Native and Dart for increasing productivity by creating an automated schedule for the users based on priority and time slot allotted to task.
-- Conducted project coordination, planning, and implementation within the given time.
+- Conducted project coordination, planning, and implementation within the given time by the clients.
 - Application Integration using NodeJS RESTful service.
-- **Technology: NodeJS, React, Dart**
+- **Technology: NodeJS, React.js, Dart**
