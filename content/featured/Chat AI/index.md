@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Chat AI'
-cover: './demo.png'
+cover: './kev.png'
 github: 'https://github.com/Muriuk'
 external: 'https://chathn-ruby.vercel.app/'
 tech:
