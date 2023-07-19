@@ -1,9 +1,9 @@
 ---
 date: '4'
 title: 'Chat AI'
-cover: ''
-github: ''
-external: ''
+cover: './chatai.png'
+github: 'https://github.com/Muriuk'
+external: 'https://chathn-ruby.vercel.app/'
 tech:
   - Next.js
   -  Chatgpt API
