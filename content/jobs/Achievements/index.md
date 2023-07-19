@@ -3,7 +3,7 @@ date: '2023-07-14'
 title: ''
 company: 'Achievements'
 location: 'Nairobi, Kenya'
-range: 'January 2021 - May 2022'
+range: 'January 2022 - July 2022'
 url: ''
 ---
 
