@@ -2,7 +2,7 @@
 date: '3'
 title: 'Stock Portfolio'
 cover: './HomePage.png'
-cta: 'https://github.com/Muriuk/Stock-Management'
+cta: 'https://github.com/Muriuk'
 external: ''
 tech:
   - Django
