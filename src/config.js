@@ -14,6 +14,11 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/kelvin-muriuki-8866891ba/',
     },
+     {
+      name: 'Whatsapp',
+      url: 'https://github.com/Muriuk',
+    },
+    
   ],
 
   navLinks: [
