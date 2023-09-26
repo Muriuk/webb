@@ -60,13 +60,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Kelvin Muriuki.</h2>;
-  const three = <h3 className="big-heading">I design and develop websites.</h3>;
+  const three = <h3 className="big-heading">I design, develop websites and Softwares.</h3>;
   const four = (
     <>
       <p>
-        I am an Kenyan based Data Scientist and Web Developer with a bachelors in Statistics. I am passionate
-        about Data Science and Web Development. I am also fascinated with Mathematics and wish to make a
-        career out of it someday. Currently, I’m open to any tech job.
+        I am a Data Scientist, Software developer and Web Developer. I am passionate
+        about Data Science, Machine Learning,Artificial intelligence and Web Development. Currently, I’m open to any tech job.
       </p>
     </>
   );
