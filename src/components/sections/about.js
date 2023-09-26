@@ -134,22 +134,9 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-              I am currently taking BSc Statistics at{' '}
-              <a href="https://www.egerton.ac.ke/" target="_blank" rel="noreferrer">
-                Egerton University
-              </a>{' '}
-              from 2020-2024. I was introduced to Data Science and Programming in my 1<sup>st</sup> semester and have been
-              interested ever since. Besides studying and programming, I love participating in
-              debates and general discussions. On an off day you'll find me bundled up in
-              a corner reading something related to tech.
-            </p>
-
-            <p>
-              I am always looking to learn new things. I am currently working on a few projects
-              related to <b>Software Development</b> and <b>Machine Learning</b>. At the same
-              time I am actively on the lookout for remote jobs & internships which I can pursue in field
-              of Data Science and Web Development.
+         <p>
+              I am currently working on a projects related to <b>Software Development</b> <b>Data Science</b> and <b>Machine Learning</b>. At the same
+              time I am actively on the lookout for remote jobs & internships which I can pursue in these fields.
             </p>
 
             <p>
@@ -166,7 +153,7 @@ const About = () => {
               <a href="mailto:%20muriukikelvin27@gmail.com" target="_blank" rel="noreferrer">
                 email
               </a>{' '}
-              if you would like to collaborate on any project related to Web Development and Data Science.
+              if you would like to collaborate on any project related to Software Development, Web Development and Data Science.
             </p>
 
             <p>Here are a few languages, frameworks, databases & softwares I’ve been working with recently:</p>
