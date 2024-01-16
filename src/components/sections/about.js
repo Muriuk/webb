@@ -125,23 +125,22 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'React js', 'Django', 'Next js', 'C [not deep]', 'Flask', 'MongoDB', 'SQL', 'Stata', 'R Programming', 'SPSS', 'Excel'];
+  const skills = ['Python', 'React js', 'Django', 'Next js', 'C','C++', 'Flask', 'MongoDB', 'SQL', 'Stata', 'R', 'SPSS', 'Excel'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">Background</h2>
 
       <div className="inner">
         <StyledText>
           <div>
          <p>
-              I am currently working on a projects related to <b>Software Development</b> <b>Data Science</b> and <b>Machine Learning</b>. At the same
-              time I am actively on the lookout for remote jobs & internships which I can pursue in these fields.
+               I am a dedicated professional actively engaged in projects centered around Software Development, Data Science, and Machine Learning. My commitment to excellence is evident in my ongoing pursuit of remote opportunities within these dynamic fields.
+
             </p>
 
             <p>
-              I am a strong advocate for open source and I am always interested in working on new
-              projects with new people. Feel free to reach out on{' '}
+              As a fervent supporter of open source initiatives, I am enthusiastic about collaborating on innovative projects with like-minded individuals. I invite you to connect with me on{' '}
               <a
                 href="https://api.whatsapp.com/send?phone=254768258491&text=Hi"
                 target="_blank"
@@ -153,7 +152,8 @@ const About = () => {
               <a href="mailto:%20muriukikelvin27@gmail.com" target="_blank" rel="noreferrer">
                 email
               </a>{' '}
-              if you would like to collaborate on any project related to Software Development, Web Development and Data Science.
+              if you are interested in collaborating on projects related to Software Development, Web Development, or Data Science.
+
             </p>
 
             <p>Here are a few languages, frameworks, databases & softwares I’ve been working with recently:</p>
